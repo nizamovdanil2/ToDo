@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 750px;
+    height: 710px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.text1{
+    display: flex;
+    justify-content: center;
+    
+}
